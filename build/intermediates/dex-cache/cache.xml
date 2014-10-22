@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\guava-14.0.1-2e8cf2c01cc04a008662c9ae05cbda71a7ec62a8.jar"
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0.1\69e12f4c6aeac392555f1ea86fab82b5e5e31ad4\guava-14.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="69e12f4c6aeac392555f1ea86fab82b5e5e31ad4"/>
+    <item
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\ActiveAndroid-dc35c6b75252a26f8136377c219e3098d3cb697c.jar"
+        jar="D:\AndroidstudioProjects\BasicSyncAdapter\ActiveAndroid\ActiveAndroid.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ff03db59d09d2a4b895a501a9b2ed145a13e759d"/>
+    <item
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-2fd66ad5705d15abdedb7cc9232d2d5f73b9a78a.jar"
+        jar="D:\Program Files (x86)\Android_0.8\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
