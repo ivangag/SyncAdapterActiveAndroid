@@ -6,4 +6,6 @@
         android:orderInCategory="100" android:showAsAction="never" />
     <item android:id="@+id/action_test" android:title="@string/load_image"
         android:orderInCategory="100" android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_gotofeed" android:title="@string/gotofeed"
+        android:orderInCategory="100" android:showAsAction="ifRoom" />
 </menu>

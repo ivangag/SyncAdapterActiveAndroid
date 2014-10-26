@@ -26,5 +26,6 @@ limitations under the License.
     <string name="action_settings">Settings</string>
     <string name="picassostringexample">picasso example</string>
     <string name="load_image">Retrieve Image</string>
+    <string name="gotofeed">Open Feed</string>
 
 </resources>

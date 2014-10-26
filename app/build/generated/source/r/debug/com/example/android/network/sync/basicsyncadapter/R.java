@@ -25,6 +25,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
+        public static final int action_gotofeed=0x7f090005;
         public static final int action_settings=0x7f090003;
         public static final int action_test=0x7f090004;
         public static final int entry_list=0x7f090000;
@@ -45,12 +46,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060002;
         public static final int description_refresh=0x7f060003;
-        public static final int hello_world=0x7f060004;
-        public static final int load_image=0x7f060005;
-        public static final int loading=0x7f060006;
-        public static final int picassostringexample=0x7f060007;
-        public static final int title_activity_main=0x7f060008;
-        public static final int title_entry_detail=0x7f060009;
+        public static final int gotofeed=0x7f060004;
+        public static final int hello_world=0x7f060005;
+        public static final int load_image=0x7f060006;
+        public static final int loading=0x7f060007;
+        public static final int picassostringexample=0x7f060008;
+        public static final int title_activity_main=0x7f060009;
+        public static final int title_entry_detail=0x7f06000a;
     }
     public static final class style {
         /** 

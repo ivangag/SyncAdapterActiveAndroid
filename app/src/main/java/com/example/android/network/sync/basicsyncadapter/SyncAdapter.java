@@ -47,6 +47,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import de.greenrobot.event.EventBus;
+
 /**
  * Define a sync adapter for the app.
  *
@@ -140,6 +142,7 @@ class SyncAdapter extends AbstractThreadedSyncAdapter {
         vehicle.setVIN("VIN" + count);
         vehicle.save();
         count++;
+        EventBus.getDefault().post(new DownloadEvent.Builder().setStatus(true).setValueEvnt(count).Build());
         /*
         try {
             final URL location = new URL(FEED_URL);

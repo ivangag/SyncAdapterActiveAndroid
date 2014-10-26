@@ -2,46 +2,40 @@
 <pre-dex-items>
 
     <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\ActiveAndroid-f587774472f1336121e13cd5dfe888066a7955e2.jar"
-        jar="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\ActiveAndroid\ActiveAndroid.jar"
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\picasso-2.3.4-0211fb8e38d3de298161dd754343109814548ef8.jar"
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.4\3b646ddbdac8a33fc45b64564011da81d23e4635\picasso-2.3.4.jar"
         jumboMode="false"
         revision="21.0.2"
-        sha1="ff03db59d09d2a4b895a501a9b2ed145a13e759d"/>
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635"/>
     <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-d8ad1f6d02d63d7ca34672b9acd0e29f9506a77d.jar"
-        jar="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-a0a32ae7aa360437824e516bb48853da822de1d7.jar"
+        jar="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
         jumboMode="false"
         revision="21.0.2"
         sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
     <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\classes-b885278fafd84605a56d0a60416037018b2c533a.jar"
-        jar="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.0.2"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
-    <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\ActiveAndroid-f587774472f1336121e13cd5dfe888066a7955e2.jar"
-        jar="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\ActiveAndroid\ActiveAndroid.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="ff03db59d09d2a4b895a501a9b2ed145a13e759d"/>
-    <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-538e1ad695ef7d427892972391460f54c6035e21.jar"
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-538e1ad695ef7d427892972391460f54c6035e21.jar"
         jar="D:\Program Files (x86)\Android_0.8\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
         jumboMode="false"
         revision="21.0.2"
         sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
     <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\guava-18.0-c4aabcb7d224c3447acf4566413a9f9d1d43b4c9.jar"
-        jar="C:\Users\igaglioti\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\classes-0419ce3a9c5b850f7ae2dea3a595d29dc026a17c.jar"
+        jar="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\eventbus-2.2.1-c786109e422e360856652ef29d39c00a37b94945.jar"
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.2.1\a18ff12a9ab5ae52fd30d42f134517997568231e\eventbus-2.2.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="a18ff12a9ab5ae52fd30d42f134517997568231e"/>
+    <item
+        dex="D:\AndroidstudioProjects\BasicSyncAdapter\app\build\intermediates\pre-dexed\debug\guava-18.0-02fe8878e8cfde140c7b6378249c8bb9adb99a2c.jar"
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
         jumboMode="false"
         revision="21.0.2"
         sha1="cce0823396aa693798f8882e64213b1772032b09"/>
-    <item
-        dex="D:\igaglioti\Documenti\GitHub\SyncAdapterActiveAndroid\app\build\intermediates\pre-dexed\debug\picasso-2.3.4-594637ec4cf43d68b6be261f270e6463f3e6757c.jar"
-        jar="C:\Users\igaglioti\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.4\3b646ddbdac8a33fc45b64564011da81d23e4635\picasso-2.3.4.jar"
-        jumboMode="false"
-        revision="21.0.2"
-        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635"/>
 
 </pre-dex-items>

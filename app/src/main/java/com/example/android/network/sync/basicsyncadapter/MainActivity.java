@@ -1,6 +1,7 @@
 package com.example.android.network.sync.basicsyncadapter;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -9,15 +10,40 @@ import android.widget.Toast;
 
 import com.squareup.picasso.Picasso;
 
+import de.greenrobot.event.EventBus;
+
 
 public class MainActivity extends Activity {
 
+    String TAG = "MainActivity" ;
     ImageView mImageView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mImageView = (ImageView)findViewById(R.id.imageChartApi);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        EventBus.getDefault().register(this);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        EventBus.getDefault().unregister(this);
+    }
+
+    public void onEvent(DownloadEvent downloadEvent){
+        String msgEvent = downloadEvent.toString();
+        Toast.makeText(this,"EventBus downloadEvent: " + msgEvent + " at " + TAG,Toast.LENGTH_LONG).show();
+    }
+
+    public void onEventMainThread(DownloadEvent downloadEvent){
+        String msgEvent = downloadEvent.toString();
+        Toast.makeText(this,"EventBusMainThread downloadEvent: " + msgEvent + " at " + TAG,Toast.LENGTH_LONG).show();
     }
 
 
@@ -46,6 +72,12 @@ public class MainActivity extends Activity {
         }
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            return true;
+        }
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.action_gotofeed) {
+            Intent intent = new Intent(this,EntryListActivity.class);
+            startActivity(intent);
             return true;
         }
 
