@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ActiveAndroid" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/library-1.9.2-SNAPSHOT" />
           </set>
         </option>
       </GradleProjectSettings>

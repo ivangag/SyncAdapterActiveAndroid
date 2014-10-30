@@ -1,1 +1,1 @@
-include ':app', ':ActiveAndroid'
+include ':app', ':ActiveAndroid', ':library-1.9.2-SNAPSHOT'

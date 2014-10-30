@@ -1,4 +1,4 @@
-package com.example.android.network.sync.basicsyncadapter;
+package com.example.android.network.sync.basicsyncadapter.bus;
 
 /**
  * Created by Ivan on 26/10/2014.

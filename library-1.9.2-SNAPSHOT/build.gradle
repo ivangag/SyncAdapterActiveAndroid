@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('library-1.9.2-SNAPSHOT.aar'))

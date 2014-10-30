@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
-        <option name="GRADLE_PROJECT_PATH" value=":ActiveAndroid" />
+        <option name="GRADLE_PROJECT_PATH" value=":library-1.9.2-SNAPSHOT" />
       </configuration>
     </facet>
   </component>

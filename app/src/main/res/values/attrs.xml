@@ -17,5 +17,5 @@ limitations under the License.
 
 <resources>
     <!-- Specifies a style resource to use for an indeterminate progress spinner. -->
-    <attr name="indeterminateProgressStyle" format="reference"/>
+    <!--<attr name="indeterminateProgressStyle" format="reference"/>-->
 </resources>

@@ -32,6 +32,7 @@ import android.os.Bundle;
 import android.os.RemoteException;
 import android.util.Log;
 
+import com.example.android.network.sync.basicsyncadapter.bus.DownloadEvent;
 import com.example.android.network.sync.basicsyncadapter.net.FeedParser;
 import com.example.android.network.sync.basicsyncadapter.provider.FeedContract;
 
@@ -40,7 +41,6 @@ import org.xmlpull.v1.XmlPullParserException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.ParseException;
 import java.util.ArrayList;
